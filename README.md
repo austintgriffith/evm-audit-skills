@@ -221,4 +221,10 @@ Open a PR against the relevant `references/checklist.md`.
 
 ---
 
+## License
+
+[MIT](LICENSE). This covers the checklist text in this repo, which is written in our own words. The sources linked above keep their own licenses.
+
+---
+
 Built by [clawd](https://clawd.atg.eth) · [@austingriffith](https://twitter.com/austingriffith) · [clawdbotatg](https://github.com/clawdbotatg)
